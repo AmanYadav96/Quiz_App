@@ -1,0 +1,28 @@
+h1{
+    align-items: center;
+    text-align: center;
+}
+form{
+    margin-left: 40%;
+}
+.box{
+    align-items: center;
+    
+}
+.submit{
+    border: 1px solid black;
+    padding: 0px 10px 0px 10px;
+    background: #455d7a; 
+    color: aliceblue;
+    align-items: center;
+}
+.easy{
+    background: #42b883; 
+}
+.medium{
+    background: yellow;
+}
+.hard{
+    background: red;
+}
+
